@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/steel-works/static/css/main.5b258dc6.chunk.css",
+    "main.js": "/steel-works/static/js/main.5068199d.chunk.js",
+    "main.js.map": "/steel-works/static/js/main.5068199d.chunk.js.map",
+    "runtime-main.js": "/steel-works/static/js/runtime-main.69dd8518.js",
+    "runtime-main.js.map": "/steel-works/static/js/runtime-main.69dd8518.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/steel-works/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.a4e220e0.chunk.js": "/steel-works/static/js/2.a4e220e0.chunk.js",
+    "static/js/2.a4e220e0.chunk.js.map": "/steel-works/static/js/2.a4e220e0.chunk.js.map",
+    "index.html": "/steel-works/index.html",
+    "precache-manifest.7db9b39ac87db1adf6097ed76d297a67.js": "/steel-works/precache-manifest.7db9b39ac87db1adf6097ed76d297a67.js",
+    "service-worker.js": "/steel-works/service-worker.js",
+    "static/css/2.f3cffc9e.chunk.css.map": "/steel-works/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.5b258dc6.chunk.css.map": "/steel-works/static/css/main.5b258dc6.chunk.css.map",
+    "static/js/2.a4e220e0.chunk.js.LICENSE.txt": "/steel-works/static/js/2.a4e220e0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/steel-works/static/media/logo.5d5d9eef.svg",
+    "static/media/meake.jpg": "/steel-works/static/media/meake.74ad4158.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69dd8518.js",
+    "static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.a4e220e0.chunk.js",
+    "static/css/main.5b258dc6.chunk.css",
+    "static/js/main.5068199d.chunk.js"
+  ]
+}
