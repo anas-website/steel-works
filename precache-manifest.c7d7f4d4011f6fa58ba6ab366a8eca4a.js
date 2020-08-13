@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9b855e19d81eeb7635ce9e6e353d6597",
+    "revision": "b5ddf8a9e029fd1d7017e164fc002d48",
     "url": "/steel-works/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/steel-works/static/css/2.f3cffc9e.chunk.css"
   },
   {
-    "revision": "5d1079d0b533b2dd0807",
+    "revision": "13d2d6b13654faafb218",
     "url": "/steel-works/static/css/main.5b258dc6.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/steel-works/static/js/2.a4e220e0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5d1079d0b533b2dd0807",
-    "url": "/steel-works/static/js/main.5068199d.chunk.js"
+    "revision": "13d2d6b13654faafb218",
+    "url": "/steel-works/static/js/main.86e56bf6.chunk.js"
   },
   {
     "revision": "302c07fb12d19b20acb8",
