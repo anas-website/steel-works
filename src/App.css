@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+
+@media (max-width: 750px){
+  .test{
+   animation:App-logo-spin 5s  ; 
+    /* display: none; */
+    background-color: crimson;
+  }
+
+}
+/* @media (min-width: 768px){
+  .test{
+    display: none;
+    background-color: rgb(40, 20, 220);
+  }
+
+  }
+   */
+
+   @media(max-width: 750px ){
+     .big{
+       /* height: 300px; */
+       display: none;
+       /* background-color: darkgoldenrod; */
+     }
+   }
+  @media(min-width:750px ){
+.smalll{
+  display: none;
+}
+  }
