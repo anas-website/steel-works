@@ -48,8 +48,8 @@ function App(props) {
     <Nav  style={{direction:'rtl'}}  className="ml-auto" >
     {/* style={{direction:'rtl'}} */}
     {/*  */}
-      <Nav.Link style={{textAlign:'right'}} as={Link} to='/' href="b" >עמוד הביית</Nav.Link> 
-      <Nav.Link style={{textAlign:'right'}}  as={Link} to='/about' href="b" >מי אנחהו</Nav.Link>
+      <Nav.Link style={{textAlign:'right'}} as={Link} to='/' href="b" >עמוד הבית</Nav.Link> 
+      <Nav.Link style={{textAlign:'right'}}  as={Link} to='/about' href="b" >מי אנחו</Nav.Link>
       <Nav.Link style={{textAlign:'right'}}  href='https://anas3506606.wixsite.com/calculatecutting'>חישוב ארכים "WIX & JS"</Nav.Link>
       <NavDropdown style={{textAlign:'right'}} title="Dropdown" id="collasible-nav-dropdown">
         <NavDropdown.Item style={{textAlign:'right'}} href="#action/3.1">Action</NavDropdown.Item>
